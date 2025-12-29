@@ -1,0 +1,2 @@
+Video search text element - Displayed: True, Enabled: True
+Clicked on 100 page size option

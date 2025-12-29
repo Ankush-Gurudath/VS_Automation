@@ -1,0 +1,3 @@
+Initial vehicle count: 636
+Filtered count with group 'Lab Test': 88
+Count after clearing filter: 636

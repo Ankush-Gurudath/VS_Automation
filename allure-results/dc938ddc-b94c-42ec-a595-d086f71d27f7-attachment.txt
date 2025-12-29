@@ -1,0 +1,2 @@
+Initial vehicle count: 679
+Filtered count with vehicle name 'QM408': 35

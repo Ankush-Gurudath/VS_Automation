@@ -1,0 +1,76 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+@P2
+Scenario: Delete the Search by vehicle name filter
+Given ""Video Reviewer Plus"" user is in VIDEO SEARCH
+And the vehicle name is in search by vehicle name filter
+And all the vehicles that name contains the vehicle name are filtered out
+When the user clicks ""X"" button in the filter
+Then the search by vehicle name filter is cleared
+And the vehicle list is reset
+And the vehicle count number is updated
+","10697","test_delete_vehicle_name_filter[QM40849291-QM40849291]","tests","2025-09-19","broken","2025-09-19","TestFilterClearing","test_LQ_15231","",""
+"
+@P2
+Scenario: the vehicle list is updated accordingly when delete the charactors
+Given ""Video Reviewer Plus"" user is in VIDEO SEARCH
+And the full serial number is in search by Serial Number filter
+And all the vehicles attached ER with the full serial number charactors are filtered out
+When the user deletes some charactors from the filter
+Then the vehicle list is updated accordingly
+And the vehicle count number is updated accordingly
+","9635","test_vehicle_list_update_on_partial_delete[QM408-QM40849291]","tests","2025-09-19","broken","2025-09-19","TestFilterClearing","test_LQ_15231","",""
+"
+@P2
+Scenario: Delete the Search by vehicle name filter
+Given ""Video Reviewer Plus"" user is in VIDEO SEARCH
+And the vehicle name is in search by vehicle name filter
+And all the vehicles that name contains the vehicle name are filtered out
+When the user clicks ""X"" button in the filter
+Then the search by vehicle name filter is cleared
+And the vehicle list is reset
+And the vehicle count number is updated
+","10521","test_delete_vehicle_name_filter[QM408-QM40849291]","tests","2025-09-19","broken","2025-09-19","TestFilterClearing","test_LQ_15231","",""
+"
+@P2
+Scenario: the vehicle list is updated accordingly when delete the charactors
+Given ""Video Reviewer Plus"" user is in VIDEO SEARCH
+And the full serial number is in search by Serial Number filter
+And all the vehicles attached ER with the full serial number charactors are filtered out
+When the user deletes some charactors from the filter
+Then the vehicle list is updated accordingly
+And the vehicle count number is updated accordingly
+","9645","test_vehicle_list_update_on_partial_delete[QM40849291-QM40849291]","tests","2025-09-19","broken","2025-09-19","TestFilterClearing","test_LQ_15231","",""
+"
+@P2
+Scenario: Delete the Search by Serial Number filter
+Given ""Video Reviewer Plus"" user is in VIDEO SEARCH
+And the serial number is in search by Serial Number filter
+And all the vehicles attached ER with the serial number characters are filtered out
+When the user clicks ""X"" button in the filter
+Then the Serial Number filter is cleared
+And the vehicle list is reset
+And the vehicle count number is updated
+","10951","test_delete_serial_number_filter[QM40849291-QM40849291]","tests","2025-09-19","broken","2025-09-19","TestFilterClearing","test_LQ_15231","",""
+"
+@P2
+Scenario: Delete the group filter
+Given ""Video Reviewer Plus"" user is in VIDEO SEARCH
+And the group is in group filter
+And the vehicles in the group are filtered out
+When the user clicks ""X"" button in group filter
+Then the group filter is cleared
+And the vehicle list is reset
+And the vehicle count number is updated
+","28562","test_delete_group_filter[Lab Test-5100ffff-60b6-d6cd-18b2-a8a3e03f0000]","tests","2025-09-19","passed","2025-09-19","TestFilterClearing","test_LQ_15231","",""
+"
+@P2
+Scenario: Delete the Search by Serial Number filter
+Given ""Video Reviewer Plus"" user is in VIDEO SEARCH
+And the serial number is in search by Serial Number filter
+And all the vehicles attached ER with the serial number characters are filtered out
+When the user clicks ""X"" button in the filter
+Then the Serial Number filter is cleared
+And the vehicle list is reset
+And the vehicle count number is updated
+","9656","test_delete_serial_number_filter[QM408-QM40849291]","tests","2025-09-19","broken","2025-09-19","TestFilterClearing","test_LQ_15231","",""

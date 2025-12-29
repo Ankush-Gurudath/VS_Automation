@@ -1,0 +1,3 @@
+Video search text element - Displayed: True, Enabled: True
+Total browse vehicles displayed: 0
+No browse vehicles found.

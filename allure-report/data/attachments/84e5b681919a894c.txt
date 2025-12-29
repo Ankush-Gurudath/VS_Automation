@@ -1,0 +1,2 @@
+Initial vehicle count: 0
+Filtered count with serial number 'QM408': 56
