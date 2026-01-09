@@ -1,0 +1,4 @@
+Video search text element - Displayed: True, Enabled: True
+Total browse vehicles displayed: 9
+Clicked on the first browse vehicle.
+Navigated back to the Vehicles page.
