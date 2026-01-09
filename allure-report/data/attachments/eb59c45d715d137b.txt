@@ -1,0 +1,2 @@
+Initial vehicle count: 54
+Filtered count with serial number 'QM40849291': 0

@@ -1,0 +1,8 @@
+Video search text element - Displayed: True, Enabled: True
+Clicked on the vehicle: QM00022317_SDdvrTest
+✅ Found 2 snapshot images.
+📸 Image 1: Visible = True, src starts with = data:image/jpeg;base64,/9j//gA...
+✅ Image 1 is currently displayed.
+📸 Image 2: Visible = True, src starts with = data:image/jpeg;base64,/9j//gA...
+✅ Image 2 is currently displayed.
+✅ Map is displayed successfully.

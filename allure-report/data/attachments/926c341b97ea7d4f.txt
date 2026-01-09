@@ -1,0 +1,51 @@
+Initial vehicle count: 693
+Filtered count with vehicle name 'QM408': 35
+Clear button XPath failed: //div[contains(@class, 'search')]//span[contains(@class, 'clear-search-icon')] - Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6aebf88e5
+	0x7ff6aebf8940
+	0x7ff6ae9d165d
+	0x7ff6aea29a33
+	0x7ff6aea29d3c
+	0x7ff6aea7df67
+	0x7ff6aea7ac97
+	0x7ff6aea1ac29
+	0x7ff6aea1ba93
+	0x7ff6aef10640
+	0x7ff6aef0af80
+	0x7ff6aef296e6
+	0x7ff6aec15de4
+	0x7ff6aec1ed8c
+	0x7ff6aec02004
+	0x7ff6aec021b5
+	0x7ff6aebe7ee2
+	0x7ffb0945e8d7
+	0x7ffb0a9ac53c
+
+Clear button XPath failed: //div[contains(@class, 'search')]//i[contains(@class, 'clear')] - Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6aebf88e5
+	0x7ff6aebf8940
+	0x7ff6ae9d165d
+	0x7ff6aea29a33
+	0x7ff6aea29d3c
+	0x7ff6aea7df67
+	0x7ff6aea7ac97
+	0x7ff6aea1ac29
+	0x7ff6aea1ba93
+	0x7ff6aef10640
+	0x7ff6aef0af80
+	0x7ff6aef296e6
+	0x7ff6aec15de4
+	0x7ff6aec1ed8c
+	0x7ff6aec02004
+	0x7ff6aec021b5
+	0x7ff6aebe7ee2
+	0x7ffb0945e8d7
+	0x7ffb0a9ac53c
+
+Successfully clicked clear button using XPath: //div[contains(@class, 'search')]//span[contains(@class, 'clear')]
+Search filter cleared successfully
+Count after clearing filter: 693

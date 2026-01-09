@@ -1,0 +1,2 @@
+Video search text element - Displayed: True, Enabled: True
+No vehicle found at index 2

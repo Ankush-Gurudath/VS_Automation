@@ -1,0 +1,3 @@
+Video search text element - Displayed: True, Enabled: True
+Number of Vehicles displayed are: 679
+Vehicle page loaded successfully

@@ -1,0 +1,2 @@
+Initial vehicle count: 37
+Filtered count with vehicle name 'QM40849291': 0
